@@ -7,6 +7,13 @@ This page documents the process of setting up an active directory lab environmen
 - An Ubuntu Server with Splunk for log collection
 - Sysmon for monitoring activities on both Windows machines
 
+The primary purpose of this lab was to:
+- Gain experience with Active Directory
+- Gain experience with Splunk
+- Explore and apply cybersecurity practices by monitoring and analyzing logs to detect potential threats and vulnerabilities in the environment
+- Gain hands-on experience with networking concepts by setting up and configuring a NAT network, and ensuring proper communication between different systems
+- Provide a platform for testing and experimenting with various IT and cybersecurity concepts, including security monitoring and threat detection
+
 ---
 
 ## Lab Diagram
