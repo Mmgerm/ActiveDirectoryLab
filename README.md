@@ -31,7 +31,7 @@ In order to host the various operating systems on my local machine, I had to:
 - Download VirtualBox from the internet
 - Configure a NAT network inside VirtualBox
 - Download and load the ISO files for Windows 10, Windows Server, and Ubuntu Server into VirtualBox and configure each machine with the proper amount of storage, memory, and processors needed to run properly
-- Configure each machine to be on the same NAT network by clicking `Settings -> Network -> Attached to: NAT Network -> Name: AD Project`
+- Configure each machine to be on the same NAT network
 
 ---
 
