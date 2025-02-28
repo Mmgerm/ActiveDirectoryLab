@@ -1,6 +1,6 @@
 # Active Directory Lab Documentation
 
-This page documents the process of setting up an active directory lab environment with:
+This page documents the process of setting up an active directory lab environment on my Windows 11 machine with:
 
 - A Windows Server 2022 with Active Directory
 - A Windows 10 machine connected to Active Directory
