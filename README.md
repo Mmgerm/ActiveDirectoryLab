@@ -9,6 +9,14 @@ This page documents the process of setting up an active directory lab environmen
 
 ---
 
+## Lab Diagram
+
+You can view a diagram of the lab setup here:
+
+[View Server Diagram (PDF)](Server_Diagram.pdf)
+
+---
+
 ## 1. Setting up VirtualBox and Configuring NAT Network
 
 In order to host the various operating systems on my local machine, I had to:
